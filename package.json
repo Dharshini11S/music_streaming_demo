@@ -1,0 +1,9 @@
+{
+  "name": "music-streaming-ci-demo",
+  "version": "1.0.0",
+  "description": "Demo repo for GitHub Actions CI (Music Streaming App)",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {}
+}
